@@ -1,0 +1,32 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/ruby-nodes/spo/main/icon_64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/ruby-nodes/spo/main/icon.png",
+        "location": "Brno, Czechia",
+        "social": {
+            "twitter_handle": "RubyNodes",
+            "telegram_handle": "pmensik",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "pmensik",
+            "github_handle": "ruby-nodes"
+        },
+        "company": {
+            "name": "Ruby Nodes",
+            "addr": "",
+            "city": "Brno",
+            "country": "Czechia",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Ruby Nodes is a community oriented provider - we started in Polkadot ecosystem with building Czech/Slovak Polkadot community and now we expand to other ecosystems as well. We also organize events, conferences, regular monthly crypto meetups and we keep our blog going on both rubynodes.io and polkadotters.medium.com. Why is Polkadot community important to Cardano? We are members of UniFires initiative that wants to connect Cardano and Polkadot as we have the most advanced governance and therefore there's much to learn from each other.",
+            "server": "Intel® Core i9 9900K, 64 GB RAM, 1 TB SSD NVMe",
+            "company": "Ruby Nodes"
+        }
+    },
+    "my-pool-ids": {
+        "0": "pool17agmzy52u2hh2f8zkuvzrvth94wdr3erlpng50thrlmryqvkz57"
+    }
+}

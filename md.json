@@ -2,5 +2,6 @@
     "name": "Ruby Nodes",
     "description": "Ruby Nodes is a professional node operator that is also a part of UniFires initiative which connects Polkadot and Cardano communities while building a light-client bridge between them.",
     "ticker": "RBN",
-    "homepage": "https://rubynodes.io"
+    "homepage": "https://rubynodes.io",
+    "extended": "https://raw.githubusercontent.com/ruby-nodes/spo/main/extendedMetadata.json"
 }
